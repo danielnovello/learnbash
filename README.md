@@ -1,3 +1,5 @@
+# Learn Bash
+
 # Table of Contents
 
 - [Introduction](#introduction)
