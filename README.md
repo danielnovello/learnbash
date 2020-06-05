@@ -1,40 +1,5 @@
-# bash-handbook
+# Learn Bash
 
-[![CC 4.0][cc-image]][cc-url]
-[![NPM version][npm-image]][npm-url]
-[![Gitter][gitter-image]][gitter-url]
-
-This document was written for those who want to learn Bash without diving in too deeply.
-
-> **Tip**: Try [**learnyoubash**](https://git.io/learnyoubash) — an interactive workshopper based on this handbook!
-
-# Node Packaged Manuscript
-
-You can install this handbook using `npm`. Just run:
-
-```
-$ npm install -g bash-handbook
-```
-
-You should be able to run `bash-handbook` at the command line now. This will open the manual in your selected `$PAGER`. Otherwise, you may continue reading on here.
-
-The source is available here: <https://github.com/denysdovhan/bash-handbook>
-
-# Translations
-
-Currently, there are these translations of **bash-handbook**:
-
-- [Português (Brasil)](/translations/pt-BR/README.md)
-- [简体中文 (中国)](/translations/zh-CN/README.md)
-- [繁體中文（台灣）](/translations/zh-TW/README.md)
-- [한국어 (한국)](/translations/ko-KR/README.md)
-
-[**Request another translation**][tr-request]
-
-[tr-request]: https://github.com/denysdovhan/bash-handbook/issues/new?title=Translation%20Request:%20%5BPlease%20enter%20language%20here%5D&body=I%20am%20able%20to%20translate%20this%20language%20%5Byes/no%5D
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
 
 - [Introduction](#introduction)
